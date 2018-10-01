@@ -1,0 +1,20 @@
+{
+  "ret": true,
+  "data": {
+    "thingName": "Mistine紫罗兰花香秋冬滋润保湿护手霜",
+    "bannerImg": "http://otqmaanbo.bkt.clouddn.com/18-10-1/36472330.jpg",
+    "gallaryImgs": ["http://otqmaanbo.bkt.clouddn.com/18-10-1/87484159.jpg","http://otqmaanbo.bkt.clouddn.com/18-10-1/36472330.jpg"],
+    "price": [{
+      "num": "66",
+      "out": "222"
+    }],
+    "product": [{
+      "title": "Mistine紫罗兰花香秋冬滋润保湿护手霜",
+      "desc": "滋润你的第二张脸"
+    }],
+    "categoryList": [{
+        "title": "推荐理由",
+        "desc": "有一双精致的手对于一个人的气质来说无疑是加分项，谁也不希望自己的脸上光鲜亮丽但是手却粗糙难看吧。来自泰国的紫罗兰Mistine帮你滋润保护i你的“第二张脸”，由内修复，由外滋润，帮助去除角质、淡化细纹、抚平倒刺，让你的手更加水嫩白皙，为你的美丽加分。"
+    }]
+  }
+}
